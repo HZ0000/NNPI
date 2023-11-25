@@ -1,6 +1,6 @@
 # Neural Prediction Intervals for Response Surface in Simulation Metamodeling
 
-This repository contains code related to the JMLR paper
+This repository contains code related to the paper
 "Neural Prediction Intervals for Response Surface in Simulation Metamodeling" 
 by Henry Lam and Haofeng Zhang. 
 
