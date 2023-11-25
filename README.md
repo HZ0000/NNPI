@@ -10,7 +10,7 @@ Paper link: https://arxiv.org/abs/2204.01904
 If you find this repository or the ideas presented in our paper useful, please consider citing the following:
 ```
 @article{lam2022prediction,
-  title={Prediction intervals for simulation metamodeling},
+  title={Neural Prediction Intervals for Response Surface in Simulation Metamodeling},
   author={Lam, Henry and Zhang, Haofeng},
   journal={arXiv preprint arXiv:2204.01904},
   year={2022}
