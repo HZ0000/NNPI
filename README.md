@@ -28,5 +28,5 @@ truth_4input_tr1.csv <br />
 experiment - 4input_te.R <br />
 to obtain data that are similar to the ones in <br />
 truth_4input_te.csv  <br />
-3. To implement different algorithms (including our proposal DRSK) on the data, run <br />
+3. To implement different algorithms (including our proposal NNGN and NNGU) on the data, run <br />
 PI_computer.py <br />
