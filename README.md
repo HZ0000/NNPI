@@ -18,3 +18,15 @@ If you find this repository or the ideas presented in our paper useful, please c
 ```
 
 # Implementation
+
+For running experiments on the example of "Computer Communication Network" with four-dimensional input: <br />
+1. To obtain the training data in our experiment design, run <br />
+experiment - 4input_tr1.R <br />
+to obtain data that are similar to the ones in <br />
+truth_4input_tr1.csv <br />
+2. To obtain the test data, run <br />
+experiment - 4input_te.R <br />
+to obtain data that are similar to the ones in <br />
+truth_4input_te.csv  <br />
+3. To implement different algorithms (including our proposal DRSK) on the data, run <br />
+PI_computer.py <br />
