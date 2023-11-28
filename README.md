@@ -29,4 +29,4 @@ experiment - 4input_te.R <br />
 to obtain data that are similar to the ones in <br />
 truth_4input_te.csv  <br />
 3. To implement NN-based algorithms (including NNVA and our proposals NNGN and NNGU) to generate prediction intervals on the data, run <br />
-PI_computer.py <br />
+pi_computer.py <br />
