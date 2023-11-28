@@ -1,4 +1,4 @@
-source('E:\\R-4.1.3\\computer_network\\computer_network\\experiment1\\subsampling.r')
+source('simulation.r')
 getwd()
 # system information
 proc_time <- 0.001
